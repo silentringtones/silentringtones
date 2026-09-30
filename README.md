@@ -3,5 +3,5 @@ E:\143\ways\to\lose\urself
 </p>
 
 <p align="left">
-Codename: Coraline
+codename: Coraline
 </p>
